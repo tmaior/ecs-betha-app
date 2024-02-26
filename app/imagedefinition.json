@@ -1,6 +1,7 @@
 [
     {
       "name": "ecs-training-betha-service",
-      "imageUri": "${aws_ecr_repository.app.repository_url}:latest"
+      "imageUri": "${aws_ecr_repository.app.repository_url}:latest",
+      "container_name": "app"
     }
   ]
