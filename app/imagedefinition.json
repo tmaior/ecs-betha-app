@@ -1,6 +1,6 @@
 [
     {
-      "name": "app",
+      "name": "demo-cluster",
       "imageUri": "${aws_ecr_repository.app.repository_url}:latest"
     }
   ]
