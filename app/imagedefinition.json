@@ -1,6 +1,6 @@
 [
     {
-        "name": "demo-cluster",
+        "name": "0487ccef0cf5420f8db9e85a87f8377e",
         "imageUri": "${REPOSITORY_URL}:latest"
     }
 ]
